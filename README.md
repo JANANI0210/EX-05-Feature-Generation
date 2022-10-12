@@ -199,3 +199,39 @@ df . head (10)
 
 
 # OUPUT
+
+![Screenshot (182)](https://user-images.githubusercontent.com/86832944/195375830-7be07d72-d9cd-4b23-95ff-6d3e9ed7da57.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/86832944/195375903-ff27ae09-c3da-4728-bbb8-d06c4fde3c6e.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/86832944/195376051-589728ca-7c56-4929-ad21-22dba31fd545.png)
+
+![Screenshot (185)](https://user-images.githubusercontent.com/86832944/195376155-04f5c1b0-1cf4-4cc6-aecd-eeef991b73cf.png)
+
+![Screenshot (187)](https://user-images.githubusercontent.com/86832944/195376332-74246623-ec2a-4bf6-96e4-3645a890a4de.png)
+
+![Screenshot (188)](https://user-images.githubusercontent.com/86832944/195377228-5262be14-7e51-40a8-854f-806bc50b453d.png)
+
+![Screenshot (189)](https://user-images.githubusercontent.com/86832944/195377286-44bfc656-6105-413d-8a6d-e84058d66a89.png)
+
+![Screenshot (190)](https://user-images.githubusercontent.com/86832944/195377690-32999d29-1d6d-41cc-b672-31abdaab2248.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/86832944/195377802-29ecbeb9-cbc9-4aa8-bec0-326257b52b65.png)
+
+![Screenshot (192)](https://user-images.githubusercontent.com/86832944/195378033-1a9692d2-e8a4-451d-8eb9-a531ad5a3d7e.png)
+
+![Screenshot (193)](https://user-images.githubusercontent.com/86832944/195378100-a7468ff9-91cf-4b0c-9401-20376ac887b2.png)
+
+![Screenshot (194)](https://user-images.githubusercontent.com/86832944/195378273-655db42f-c575-4811-9102-10e5600df26d.png)
+
+![Screenshot (195)](https://user-images.githubusercontent.com/86832944/195378314-d4d1c575-c0e9-4a65-8cb0-c9b457d20b22.png)
+
+![Screenshot (197)](https://user-images.githubusercontent.com/86832944/195378375-8e0c43ee-22da-403f-b539-a4e452d45c87.png)
+
+### RESULT:
+
+Thus, the given data is read and Feature Generation process is performed and saved the data to a file. 
+
+
+
+
